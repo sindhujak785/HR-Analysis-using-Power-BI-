@@ -5,7 +5,8 @@
 This Power BI dashboard provides an in-depth analysis of HR data, focusing on employee attrition, job satisfaction, and key HR metrics. The goal of this project is to help organizations make data-driven HR decisions by visualizing trends and insights.
 
 ## Dashboard Preview
-![HR Analytics Dashboard]()
+![HR Analytics Dashboard](https://github.com/sindhujak785/HR-Analysis-using-Power-BI-/blob/main/HR_Analysis%20Dashboard.png)
+
 ## Features
 
 * Attrition Analysis: Breakdown of attrition by age, job role, salary, and years at the company.
@@ -33,6 +34,8 @@ This Power BI dashboard provides an in-depth analysis of HR data, focusing on em
 * The highest attrition occurs in the 26-35 age group.
 
 * Employees with salaries below 5K have the highest turnover rate.
+
+  
 
 * Laboratory Technicians and Sales Executives show the highest attrition.
 
