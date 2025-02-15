@@ -44,10 +44,10 @@ This Power BI dashboard provides an in-depth analysis of HR data, focusing on em
 
  ## How to Use
 
-1️⃣ Download the Power BI file ![HR_Analytics_Dashboard.pbix](https://github.com/sindhujak785/HR-Analysis-using-Power-BI-/blob/main/HR%20Analysis%20dashboard.pbix) from this repository.
+1. Download the Power BI file ![HR_Analytics_Dashboard.pbix](https://github.com/sindhujak785/HR-Analysis-using-Power-BI-/blob/main/HR%20Analysis%20dashboard.pbix) from this repository.
 
-2️⃣ Open it in Power BI Desktop.
+2. Open it in Power BI Desktop.
 
-3️⃣ Explore the interactive visualizations to analyze HR trends dynamically.
+3. Explore the interactive visualizations to analyze HR trends dynamically.
 
 
