@@ -41,3 +41,10 @@ This Power BI dashboard provides an in-depth analysis of HR data, focusing on em
 
 * Employees with 1-3 years of experience tend to leave more frequently.
 
+
+ ## How to Use
+
+1️⃣ Download the Power BI file ![HR_Analytics_Dashboard.pbix]() from this repository.
+2️⃣ Open it in Power BI Desktop.
+3️⃣ Explore the interactive visualizations to analyze HR trends dynamically.
+
